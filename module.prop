@@ -1,0 +1,8 @@
+id=kreapic-disable-thermal-universal
+name=Kreapic Disable Thermal Universal
+version=1.0
+versionCode=10
+author=Kreapic
+description=This is a Magisk module that is useful for disabling the thermal of your smartphone.
+Use it wisely, and all risks are your own responsibility.
+device=Universal

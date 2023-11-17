@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+# Kreapic Disable Thermal
+
+ro.vendor.dfps.enable=false
+ro.vendor.smart_dfps.enable=false
