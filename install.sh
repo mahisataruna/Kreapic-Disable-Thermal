@@ -36,11 +36,11 @@ REPLACE="
 "
 
 print_modname() {
-  ui_print "      Kreapic Disable Thermal Version 1.0     "
+  ui_print "      Kreapic Disable Thermal Version 1.1     "
 busybox sleep 1
   ui_print "                   "
 busybox sleep 1
-  ui_print " By : Kreapic "
+  ui_print " By : Kreapic x AlgorithmIDN "
 busybox sleep 1
   ui_print " Install BusyBox"
 busybox sleep 5
