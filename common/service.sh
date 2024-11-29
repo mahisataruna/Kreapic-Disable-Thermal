@@ -2,7 +2,7 @@
 sleep 20
 
 # Universal Thermal Disable
-echo 0 > /sys/class/thermal/thermal_zone*/mode
+echo disable > /sys/class/thermal/thermal_zone*/mode
 
 # Stop any thermal feature
 echo 0 > /proc/sys/kernel/sched_boost
