@@ -47,6 +47,10 @@ Download [Github](https://github.com/mahisataruna/Kreapic-Disable-Thermal/releas
 
 Please use this module wisely. I am not responsible for any damage caused by this module. All risks are your own.
 
+## Dukungan :
+
+<a href="https://trakteer.id/algorithmdev" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border: 0px; height: 40px; --darkreader-inline-border-top: 0px; --darkreader-inline-border-right: 0px; --darkreader-inline-border-bottom: 0px; --darkreader-inline-border-left: 0px;" alt="Trakteer Saya" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></a>
+
 
 <p align="center">
   <a href="https://t.me/algorithmdev"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
